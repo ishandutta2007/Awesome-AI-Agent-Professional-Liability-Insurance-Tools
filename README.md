@@ -202,3 +202,5 @@ If this repository helps you navigate AI agent liability, insurance underwriting
 - ☕ **Sponsor the maintainer** or buy a coffee via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 Thank you for helping build a safer, verifiable, and economically accountable AI agent ecosystem!
+# Awesome-AI-Agent-Professional-Liability-Insurance-Tools
+
